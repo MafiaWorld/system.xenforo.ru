@@ -1,1 +1,1 @@
-# xenforo.system.ru
+# system.xenforo.ru
